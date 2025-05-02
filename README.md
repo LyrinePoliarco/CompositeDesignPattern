@@ -2,7 +2,7 @@
 
 
 
-
+## Problem
 New Era University is composed of various organizational units. These units can be either individual entities or compositions of other entities. The system should be able to represent the following:
 
 Colleges: A College is a high-level organizational unit (e.g., "College of Engineering", "College of Business"). A College can contain departments, teachers, and students. It can also contain other Colleges (e.g., a university is composed of several Colleges).
@@ -31,7 +31,7 @@ Displaying the details of a College.
 Calculating and displaying the total number of students in a College.
 Calculating and displaying the total budget of a College.
 
-
+## Class Diagram
 ![Lab Assignment 8 Composite Design Pattern](https://github.com/user-attachments/assets/b39352e8-3955-4a90-9d51-6bcc235fe120)
 
 
