@@ -5,9 +5,9 @@ public class Main {
         College engineering = new College("College of Engineering");
         Department compSci = new Department("Department of Computer Science");
 
-        Teacher t1 = new Teacher("Prof. Reyes", "Java Programming", 50000);
+        Teacher t1 = new Teacher("Prof. Esperanza", "Java Programming", 50000);
         Student s1 = new Student("Lyrine Poliarco", "2023-0001", 20000);
-        Student s2 = new Student("Mark Dela Cruz", "2023-0002", 20000);
+        Student s2 = new Student("Erlyn De Leon", "2023-0002", 20000);
 
         compSci.addUnit(t1);
         compSci.addUnit(s1);
